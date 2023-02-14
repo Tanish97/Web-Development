@@ -1,0 +1,42 @@
+.body {
+  margin: 0;
+}
+
+.main {
+  margin: 0;
+  background-color: #00425A;
+  height: 100vh;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #1F8A70;
+}
+
+.winner {
+  margin: 0;
+  background-color: #00425A;
+  height: 40px;
+  position: relative;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  color: #1F8A70;
+}
+
+.diceA {
+  height: 50vh;
+  width: 45%;
+  float: left;
+  text-align: right;
+}
+
+.diceB {
+  float: right;
+  height: 50vh;
+  width: 45%;
+}
